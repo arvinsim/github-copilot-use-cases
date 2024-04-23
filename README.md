@@ -2,7 +2,7 @@
 
 - [x] Debugging Support
 - [x] Code Refactoring
-- [ ] Writing Documentation
+- [x] Writing Documentation
 - [ ] Code Review Assistance
 - [x] Integration with APIs and Libraries
 - [x] Performance Optimization
