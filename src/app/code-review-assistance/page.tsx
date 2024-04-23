@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const LoginPage: React.FC = () => {
+const CodeReviewAssistancePage: React.FC = () => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
 
@@ -51,4 +51,4 @@ const LoginPage: React.FC = () => {
   );
 };
 
-export default LoginPage;
+export default CodeReviewAssistancePage;
