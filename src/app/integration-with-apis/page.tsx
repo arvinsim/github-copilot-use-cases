@@ -3,8 +3,8 @@ async function IntegrationWithApisPage() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    // TODO: Integration with APIs - Can I generate a function to get the data from the 'api/hello-world' endpoint?
-    // Use this prompt 'get data from api/hello-world'
+    // TODO: Integration with APIs - Can I generate a function to get the data from the 'api/user' endpoint?
+    // Use this prompt 'get data from api/user'
     const fetchData = async () => {};
     fetchData();
   }, []);
