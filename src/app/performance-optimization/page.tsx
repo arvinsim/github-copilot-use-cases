@@ -14,9 +14,7 @@ async function getData() {
   };
 }
 
-// TODO: Is there a away to optimize the performance of showing the list?
-// 1. Ask Github Copilot 'What are techniques I can use to improve the rendering of a list of React components?'
-// 2 Prompt 'Optimize this block of code to use {technique} to improve performance
+// TODO: Performance Optimization: Is there a way to optimize the performance of showing the list?
 const PerformanceOptimizationPage = ({ users }: { users: User[] }) => {
   return (
     <div>

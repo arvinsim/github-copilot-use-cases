@@ -4,7 +4,6 @@ async function IntegrationWithApisPage() {
 
   useEffect(() => {
     // TODO: Integration with APIs - Can I generate a function to get the data from the 'api/user' endpoint?
-    // Use this prompt 'get data from api/user'
     const fetchData = async () => {};
     fetchData();
   }, []);
